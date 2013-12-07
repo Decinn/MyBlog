@@ -1,0 +1,19 @@
+
+div.title{
+  font-weight:bold;
+  font-size:18pt;
+}
+
+div.image{
+  float:left;
+}
+
+div.info{
+  float:left;
+}
+
+span.label{
+  font-family:Verdana;
+  font-size:12pt;
+}
+
